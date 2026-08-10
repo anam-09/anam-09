@@ -1,6 +1,81 @@
 # 💫 About Me:
-Hi 👋, I'm Anam Sayyad  <br>A Frontend Developer and BCA Student passionate about AI, Data Analysis, and Web Development.<br>🎓 BCA Student at Bharati Vidyapeeth University, Pune  <br><br> I’m currently working : As a frontend Developer<br>🌱 I’m currently learning: Python | Data Analysis | AI <br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: anamsayyyad30@gmail.com<br>🤝 I’m open to collaborating on web development and AI-based projects  <br>📊 I enjoy analyzing data and building interactive web applications  <br><br>
+# 👋 Hi, I'm Anam Sayyad
 
+### 💻 MCA Student | Frontend Developer | Data Analytics & AI Enthusiast
+
+I'm an MCA student from Pune with a BCA background, passionate about **Web Development, Data Analytics, and AI**.
+
+🎓 Currently pursuing **MCA**  
+💻 Working on **Frontend Development**  
+📊 Currently learning **Python, SQL & Data Analytics**  
+🤖 Exploring **AI & Generative AI**  
+🌱 Building projects to strengthen my practical skills  
+🤝 Open to collaborating on Web Development, Data Analytics & AI projects  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Bootstrap
+- Tailwind CSS
+
+### 📊 Data & Programming
+- Python
+- SQL
+- PostgreSQL
+- Power BI
+- Excel
+
+### 🔧 Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Node.js
+- Express.js
+- REST APIs
+- Vite
+
+### 🤖 Currently Exploring
+- Data Analytics
+- Generative AI
+- AI Tools
+- Cloud Fundamentals
+
+---
+
+## 🚀 Projects
+
+🔹 **Myntra Clone**  
+A responsive e-commerce frontend built using React.js and Bootstrap.
+
+🔹 **Blog Platform**  
+A full-stack blog application using Node.js, Express.js and EJS.
+
+🔹 **Weather App**  
+A weather application using API integration to display real-time weather information.
+
+🔹 **Recipe Finder**  
+A web application for discovering recipes based on user requirements.
+
+🔹 **KYC Onboarding UI**  
+A multi-step responsive KYC onboarding interface built with React.js.
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python          █████████░░  80%
+SQL             ████████░░░  75%
+Data Analytics  ██████░░░░░  60%
+React.js        ████████░░░  75%
+AI / GenAI      █████░░░░░░  50%
+Cloud           ███░░░░░░░░  30%
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anam-sayyad-aa6550296/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anamsayyad30@gmail.com) 
