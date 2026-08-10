@@ -96,9 +96,7 @@ Multi-step responsive KYC onboarding interface built using **React.js**.
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anam-09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 
 ### ✨ Random Developer Quote
 
